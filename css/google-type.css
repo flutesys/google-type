@@ -32,7 +32,7 @@ p { -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; }
 }
 
 .section-intro h1 { font: 75px/68px 'Abril Fatface', Georgia, serif; text-transform: uppercase; color: #693; margin: 200px 0 90px 0; text-align: center; }
-.section-intro .small { font: 30px/32px 'Playfair Display', Georgia, serif; letter-spacing: .06em; margin-left: 30px; display: block; }
+.section-intro .small { font: 30px/32px 'Playfair Display', Georgia, serif; letter-spacing: .06em; display: block; }
 .section-intro h1 em { display: block; font-style: normal; }
 .section-intro h1 i { text-transform: lowercase; letter-spacing: 0; color: #7a6; }
 .section-intro .divider { width: 30px; padding: 30px 0 0 0; border-top: 1px solid #999; margin: 30px auto 0 auto; }
